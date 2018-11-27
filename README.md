@@ -8,7 +8,7 @@ You can use this app directly via https://catsai.shinyapps.io/BehaviorAnalysis.
 
 **OR**
 
-You can download [R](https://www.r-project.org/), RStudio (https://www.rstudio.com/products/rstudio/download/#download), and these files. You'll also need these packages: shiny, readr, readxl, dplyr, and tidyr.
+You can download [R](https://www.r-project.org/), [RStudio](https://www.rstudio.com/products/rstudio/download/#download), and these files. You'll also need these packages: shiny, readr, readxl, dplyr, and tidyr.
 
 ## Using the App
 1. Head over to the app via the link or run the appBehavior.R file in RStudio.
