@@ -13,7 +13,7 @@ You can download [R](https://www.r-project.org/), [RStudio](https://www.rstudio.
 ## Using the App
 1. Head over to the app via the link or run the appBehavior.R file in RStudio.
 2. Choose your experiment type from the left hand side drop down menu.
-3. Upload the appropriate files. Example data for each experiment type is also found in this repository. 
+3. Upload the appropriate files. Example data files are also found in this repository. 
     * Open Field:
       * Takes 1 file.
       * Assumes there are 2 arenas with arena 2 being the center region.
